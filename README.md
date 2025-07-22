@@ -1,6 +1,6 @@
 # Data_eng_prep
 Day1:
-**Python Foundations** — Lists, Tuples, Loops, String Operations
+**Python Foundations** — Lists, Tuples, Loops, String Operations  \n
 **Focus Areas:**
 	• Understand Python data types: list, tuple, set
 	• Master loop constructs: for, while, range
